@@ -12,6 +12,46 @@
 		EB376BCC1D0D20570020631D /* Shuffle_Pop.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB376BCA1D0D20570020631D /* Shuffle_Pop.xcdatamodeld */; };
 		EB376BCE1D0D20570020631D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB376BCD1D0D20570020631D /* Assets.xcassets */; };
 		EB376BD11D0D20570020631D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB376BCF1D0D20570020631D /* Main.storyboard */; };
+		EB376BEE1D0D387E0020631D /* dummy-40x40-Anemone-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDA1D0D387E0020631D /* dummy-40x40-Anemone-plain.jpg */; };
+		EB376BEF1D0D387E0020631D /* dummy-60x60-Lizard-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDB1D0D387E0020631D /* dummy-60x60-Lizard-plain.jpg */; };
+		EB376BF01D0D387E0020631D /* dummy-135x240-MarrusOrthocanna-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDC1D0D387E0020631D /* dummy-135x240-MarrusOrthocanna-plain.jpg */; };
+		EB376BF11D0D387E0020631D /* dummy-160x107-Auger2-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDD1D0D387E0020631D /* dummy-160x107-Auger2-plain.jpg */; };
+		EB376BF21D0D387E0020631D /* dummy-160x240-Butterfly-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDE1D0D387E0020631D /* dummy-160x240-Butterfly-plain.jpg */; };
+		EB376BF31D0D387E0020631D /* dummy-375x500-Flamingo-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BDF1D0D387E0020631D /* dummy-375x500-Flamingo-plain.jpg */; };
+		EB376BF41D0D387E0020631D /* dummy-428x760-Cow-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE01D0D387E0020631D /* dummy-428x760-Cow-plain.jpg */; };
+		EB376BF51D0D387E0020631D /* dummy-454x280-CanisLupus-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE11D0D387E0020631D /* dummy-454x280-CanisLupus-plain.jpg */; };
+		EB376BF61D0D387E0020631D /* dummy-468x60-Monkey1-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE21D0D387E0020631D /* dummy-468x60-Monkey1-plain.jpg */; };
+		EB376BF71D0D387E0020631D /* dummy-556x900-Gull-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE31D0D387E0020631D /* dummy-556x900-Gull-plain.jpg */; };
+		EB376BF81D0D387E0020631D /* dummy-600x800-Auger1-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE41D0D387E0020631D /* dummy-600x800-Auger1-plain.jpg */; };
+		EB376BF91D0D387E0020631D /* dummy-600x900-WhiteTiger-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE51D0D387E0020631D /* dummy-600x900-WhiteTiger-plain.jpg */; };
+		EB376BFA1D0D387E0020631D /* dummy-864x1152-Impala-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE61D0D387E0020631D /* dummy-864x1152-Impala-plain.jpg */; };
+		EB376BFB1D0D387E0020631D /* dummy-926x1500-Dragonfly-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE71D0D387E0020631D /* dummy-926x1500-Dragonfly-plain.jpg */; };
+		EB376BFC1D0D387E0020631D /* dummy-1024x1820-Lama-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE81D0D387E0020631D /* dummy-1024x1820-Lama-plain.jpg */; };
+		EB376BFD1D0D387E0020631D /* dummy-1134x756-Cat-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BE91D0D387E0020631D /* dummy-1134x756-Cat-plain.jpg */; };
+		EB376BFE1D0D387E0020631D /* dummy-1360x2040-CetoniaAurata-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BEA1D0D387E0020631D /* dummy-1360x2040-CetoniaAurata-plain.jpg */; };
+		EB376BFF1D0D387E0020631D /* dummy-1730x1068-Dog-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BEB1D0D387E0020631D /* dummy-1730x1068-Dog-plain.jpg */; };
+		EB376C001D0D387E0020631D /* dummy-1752x1168-Jellyfish-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BEC1D0D387E0020631D /* dummy-1752x1168-Jellyfish-plain.jpg */; };
+		EB376C011D0D387E0020631D /* dummy-1920x2560-Sheep-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376BED1D0D387E0020631D /* dummy-1920x2560-Sheep-plain.jpg */; };
+		EB376C161D0D389C0020631D /* dummy-40x40-Bottles-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C021D0D389B0020631D /* dummy-40x40-Bottles-plain.jpg */; };
+		EB376C171D0D389C0020631D /* dummy-60x60-Glass-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C031D0D389B0020631D /* dummy-60x60-Glass-plain.jpg */; };
+		EB376C181D0D389C0020631D /* dummy-135x240-Map-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C041D0D389B0020631D /* dummy-135x240-Map-plain.jpg */; };
+		EB376C191D0D389C0020631D /* dummy-160x107-RedDots-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C051D0D389B0020631D /* dummy-160x107-RedDots-plain.jpg */; };
+		EB376C1A1D0D389C0020631D /* dummy-160x240-FairyLights-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C061D0D389B0020631D /* dummy-160x240-FairyLights-plain.jpg */; };
+		EB376C1B1D0D389C0020631D /* dummy-375x500-Circus-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C071D0D389B0020631D /* dummy-375x500-Circus-plain.jpg */; };
+		EB376C1C1D0D389C0020631D /* dummy-428x760-White-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C081D0D389B0020631D /* dummy-428x760-White-plain.jpg */; };
+		EB376C1D1D0D389C0020631D /* dummy-454x280-Floral-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C091D0D389B0020631D /* dummy-454x280-Floral-plain.jpg */; };
+		EB376C1E1D0D389C0020631D /* dummy-468x60-Goemetry-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0A1D0D389B0020631D /* dummy-468x60-Goemetry-plain.jpg */; };
+		EB376C1F1D0D389C0020631D /* dummy-556x900-Stones-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0B1D0D389B0020631D /* dummy-556x900-Stones-plain.jpg */; };
+		EB376C201D0D389C0020631D /* dummy-600x800-Stripes-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0C1D0D389B0020631D /* dummy-600x800-Stripes-plain.jpg */; };
+		EB376C211D0D389C0020631D /* dummy-600x900-Circus-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0D1D0D389C0020631D /* dummy-600x900-Circus-plain.jpg */; };
+		EB376C221D0D389C0020631D /* dummy-864x1152-Utrecht-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0E1D0D389C0020631D /* dummy-864x1152-Utrecht-plain.jpg */; };
+		EB376C231D0D389C0020631D /* dummy-926x1500-Rope-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C0F1D0D389C0020631D /* dummy-926x1500-Rope-plain.jpg */; };
+		EB376C241D0D389C0020631D /* dummy-1024x1820-Comb-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C101D0D389C0020631D /* dummy-1024x1820-Comb-plain.jpg */; };
+		EB376C251D0D389C0020631D /* dummy-1134x756-Stones-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C111D0D389C0020631D /* dummy-1134x756-Stones-plain.jpg */; };
+		EB376C261D0D389C0020631D /* dummy-1360x2040-DesiccationCracks-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C121D0D389C0020631D /* dummy-1360x2040-DesiccationCracks-plain.jpg */; };
+		EB376C271D0D389C0020631D /* dummy-1730x1068-Menu-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C131D0D389C0020631D /* dummy-1730x1068-Menu-plain.jpg */; };
+		EB376C281D0D389C0020631D /* dummy-1752x1168-Comb-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C141D0D389C0020631D /* dummy-1752x1168-Comb-plain.jpg */; };
+		EB376C291D0D389C0020631D /* dummy-1920x2560-Mosque-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB376C151D0D389C0020631D /* dummy-1920x2560-Mosque-plain.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +62,46 @@
 		EB376BCD1D0D20570020631D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB376BD01D0D20570020631D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EB376BD21D0D20570020631D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB376BDA1D0D387E0020631D /* dummy-40x40-Anemone-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-40x40-Anemone-plain.jpg"; sourceTree = "<group>"; };
+		EB376BDB1D0D387E0020631D /* dummy-60x60-Lizard-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-60x60-Lizard-plain.jpg"; sourceTree = "<group>"; };
+		EB376BDC1D0D387E0020631D /* dummy-135x240-MarrusOrthocanna-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-135x240-MarrusOrthocanna-plain.jpg"; sourceTree = "<group>"; };
+		EB376BDD1D0D387E0020631D /* dummy-160x107-Auger2-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-160x107-Auger2-plain.jpg"; sourceTree = "<group>"; };
+		EB376BDE1D0D387E0020631D /* dummy-160x240-Butterfly-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-160x240-Butterfly-plain.jpg"; sourceTree = "<group>"; };
+		EB376BDF1D0D387E0020631D /* dummy-375x500-Flamingo-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-375x500-Flamingo-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE01D0D387E0020631D /* dummy-428x760-Cow-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-428x760-Cow-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE11D0D387E0020631D /* dummy-454x280-CanisLupus-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-454x280-CanisLupus-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE21D0D387E0020631D /* dummy-468x60-Monkey1-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-468x60-Monkey1-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE31D0D387E0020631D /* dummy-556x900-Gull-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-556x900-Gull-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE41D0D387E0020631D /* dummy-600x800-Auger1-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-600x800-Auger1-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE51D0D387E0020631D /* dummy-600x900-WhiteTiger-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-600x900-WhiteTiger-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE61D0D387E0020631D /* dummy-864x1152-Impala-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-864x1152-Impala-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE71D0D387E0020631D /* dummy-926x1500-Dragonfly-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-926x1500-Dragonfly-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE81D0D387E0020631D /* dummy-1024x1820-Lama-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1024x1820-Lama-plain.jpg"; sourceTree = "<group>"; };
+		EB376BE91D0D387E0020631D /* dummy-1134x756-Cat-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1134x756-Cat-plain.jpg"; sourceTree = "<group>"; };
+		EB376BEA1D0D387E0020631D /* dummy-1360x2040-CetoniaAurata-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1360x2040-CetoniaAurata-plain.jpg"; sourceTree = "<group>"; };
+		EB376BEB1D0D387E0020631D /* dummy-1730x1068-Dog-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1730x1068-Dog-plain.jpg"; sourceTree = "<group>"; };
+		EB376BEC1D0D387E0020631D /* dummy-1752x1168-Jellyfish-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1752x1168-Jellyfish-plain.jpg"; sourceTree = "<group>"; };
+		EB376BED1D0D387E0020631D /* dummy-1920x2560-Sheep-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1920x2560-Sheep-plain.jpg"; sourceTree = "<group>"; };
+		EB376C021D0D389B0020631D /* dummy-40x40-Bottles-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-40x40-Bottles-plain.jpg"; sourceTree = "<group>"; };
+		EB376C031D0D389B0020631D /* dummy-60x60-Glass-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-60x60-Glass-plain.jpg"; sourceTree = "<group>"; };
+		EB376C041D0D389B0020631D /* dummy-135x240-Map-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-135x240-Map-plain.jpg"; sourceTree = "<group>"; };
+		EB376C051D0D389B0020631D /* dummy-160x107-RedDots-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-160x107-RedDots-plain.jpg"; sourceTree = "<group>"; };
+		EB376C061D0D389B0020631D /* dummy-160x240-FairyLights-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-160x240-FairyLights-plain.jpg"; sourceTree = "<group>"; };
+		EB376C071D0D389B0020631D /* dummy-375x500-Circus-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-375x500-Circus-plain.jpg"; sourceTree = "<group>"; };
+		EB376C081D0D389B0020631D /* dummy-428x760-White-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-428x760-White-plain.jpg"; sourceTree = "<group>"; };
+		EB376C091D0D389B0020631D /* dummy-454x280-Floral-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-454x280-Floral-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0A1D0D389B0020631D /* dummy-468x60-Goemetry-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-468x60-Goemetry-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0B1D0D389B0020631D /* dummy-556x900-Stones-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-556x900-Stones-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0C1D0D389B0020631D /* dummy-600x800-Stripes-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-600x800-Stripes-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0D1D0D389C0020631D /* dummy-600x900-Circus-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-600x900-Circus-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0E1D0D389C0020631D /* dummy-864x1152-Utrecht-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-864x1152-Utrecht-plain.jpg"; sourceTree = "<group>"; };
+		EB376C0F1D0D389C0020631D /* dummy-926x1500-Rope-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-926x1500-Rope-plain.jpg"; sourceTree = "<group>"; };
+		EB376C101D0D389C0020631D /* dummy-1024x1820-Comb-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1024x1820-Comb-plain.jpg"; sourceTree = "<group>"; };
+		EB376C111D0D389C0020631D /* dummy-1134x756-Stones-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1134x756-Stones-plain.jpg"; sourceTree = "<group>"; };
+		EB376C121D0D389C0020631D /* dummy-1360x2040-DesiccationCracks-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1360x2040-DesiccationCracks-plain.jpg"; sourceTree = "<group>"; };
+		EB376C131D0D389C0020631D /* dummy-1730x1068-Menu-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1730x1068-Menu-plain.jpg"; sourceTree = "<group>"; };
+		EB376C141D0D389C0020631D /* dummy-1752x1168-Comb-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1752x1168-Comb-plain.jpg"; sourceTree = "<group>"; };
+		EB376C151D0D389C0020631D /* dummy-1920x2560-Mosque-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dummy-1920x2560-Mosque-plain.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +138,46 @@
 				EB376BC81D0D20570020631D /* ViewController.swift */,
 				EB376BCD1D0D20570020631D /* Assets.xcassets */,
 				EB376BCF1D0D20570020631D /* Main.storyboard */,
+				EB376BDA1D0D387E0020631D /* dummy-40x40-Anemone-plain.jpg */,
+				EB376BDB1D0D387E0020631D /* dummy-60x60-Lizard-plain.jpg */,
+				EB376BDC1D0D387E0020631D /* dummy-135x240-MarrusOrthocanna-plain.jpg */,
+				EB376BDD1D0D387E0020631D /* dummy-160x107-Auger2-plain.jpg */,
+				EB376BDE1D0D387E0020631D /* dummy-160x240-Butterfly-plain.jpg */,
+				EB376BDF1D0D387E0020631D /* dummy-375x500-Flamingo-plain.jpg */,
+				EB376BE01D0D387E0020631D /* dummy-428x760-Cow-plain.jpg */,
+				EB376BE11D0D387E0020631D /* dummy-454x280-CanisLupus-plain.jpg */,
+				EB376BE21D0D387E0020631D /* dummy-468x60-Monkey1-plain.jpg */,
+				EB376BE31D0D387E0020631D /* dummy-556x900-Gull-plain.jpg */,
+				EB376C021D0D389B0020631D /* dummy-40x40-Bottles-plain.jpg */,
+				EB376C031D0D389B0020631D /* dummy-60x60-Glass-plain.jpg */,
+				EB376C041D0D389B0020631D /* dummy-135x240-Map-plain.jpg */,
+				EB376C051D0D389B0020631D /* dummy-160x107-RedDots-plain.jpg */,
+				EB376C061D0D389B0020631D /* dummy-160x240-FairyLights-plain.jpg */,
+				EB376C071D0D389B0020631D /* dummy-375x500-Circus-plain.jpg */,
+				EB376C081D0D389B0020631D /* dummy-428x760-White-plain.jpg */,
+				EB376C091D0D389B0020631D /* dummy-454x280-Floral-plain.jpg */,
+				EB376C0A1D0D389B0020631D /* dummy-468x60-Goemetry-plain.jpg */,
+				EB376C0B1D0D389B0020631D /* dummy-556x900-Stones-plain.jpg */,
+				EB376C0C1D0D389B0020631D /* dummy-600x800-Stripes-plain.jpg */,
+				EB376C0D1D0D389C0020631D /* dummy-600x900-Circus-plain.jpg */,
+				EB376C0E1D0D389C0020631D /* dummy-864x1152-Utrecht-plain.jpg */,
+				EB376C0F1D0D389C0020631D /* dummy-926x1500-Rope-plain.jpg */,
+				EB376C101D0D389C0020631D /* dummy-1024x1820-Comb-plain.jpg */,
+				EB376C111D0D389C0020631D /* dummy-1134x756-Stones-plain.jpg */,
+				EB376C121D0D389C0020631D /* dummy-1360x2040-DesiccationCracks-plain.jpg */,
+				EB376C131D0D389C0020631D /* dummy-1730x1068-Menu-plain.jpg */,
+				EB376C141D0D389C0020631D /* dummy-1752x1168-Comb-plain.jpg */,
+				EB376C151D0D389C0020631D /* dummy-1920x2560-Mosque-plain.jpg */,
+				EB376BE41D0D387E0020631D /* dummy-600x800-Auger1-plain.jpg */,
+				EB376BE51D0D387E0020631D /* dummy-600x900-WhiteTiger-plain.jpg */,
+				EB376BE61D0D387E0020631D /* dummy-864x1152-Impala-plain.jpg */,
+				EB376BE71D0D387E0020631D /* dummy-926x1500-Dragonfly-plain.jpg */,
+				EB376BE81D0D387E0020631D /* dummy-1024x1820-Lama-plain.jpg */,
+				EB376BE91D0D387E0020631D /* dummy-1134x756-Cat-plain.jpg */,
+				EB376BEA1D0D387E0020631D /* dummy-1360x2040-CetoniaAurata-plain.jpg */,
+				EB376BEB1D0D387E0020631D /* dummy-1730x1068-Dog-plain.jpg */,
+				EB376BEC1D0D387E0020631D /* dummy-1752x1168-Jellyfish-plain.jpg */,
+				EB376BED1D0D387E0020631D /* dummy-1920x2560-Sheep-plain.jpg */,
 				EB376BD21D0D20570020631D /* Info.plist */,
 				EB376BCA1D0D20570020631D /* Shuffle_Pop.xcdatamodeld */,
 			);
@@ -122,8 +242,48 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB376BEF1D0D387E0020631D /* dummy-60x60-Lizard-plain.jpg in Resources */,
+				EB376C1F1D0D389C0020631D /* dummy-556x900-Stones-plain.jpg in Resources */,
+				EB376C251D0D389C0020631D /* dummy-1134x756-Stones-plain.jpg in Resources */,
+				EB376C1D1D0D389C0020631D /* dummy-454x280-Floral-plain.jpg in Resources */,
+				EB376C281D0D389C0020631D /* dummy-1752x1168-Comb-plain.jpg in Resources */,
+				EB376C1B1D0D389C0020631D /* dummy-375x500-Circus-plain.jpg in Resources */,
+				EB376C011D0D387E0020631D /* dummy-1920x2560-Sheep-plain.jpg in Resources */,
+				EB376BFB1D0D387E0020631D /* dummy-926x1500-Dragonfly-plain.jpg in Resources */,
+				EB376C201D0D389C0020631D /* dummy-600x800-Stripes-plain.jpg in Resources */,
+				EB376C181D0D389C0020631D /* dummy-135x240-Map-plain.jpg in Resources */,
+				EB376BFA1D0D387E0020631D /* dummy-864x1152-Impala-plain.jpg in Resources */,
+				EB376C1E1D0D389C0020631D /* dummy-468x60-Goemetry-plain.jpg in Resources */,
+				EB376C291D0D389C0020631D /* dummy-1920x2560-Mosque-plain.jpg in Resources */,
+				EB376BEE1D0D387E0020631D /* dummy-40x40-Anemone-plain.jpg in Resources */,
+				EB376BF21D0D387E0020631D /* dummy-160x240-Butterfly-plain.jpg in Resources */,
+				EB376BFD1D0D387E0020631D /* dummy-1134x756-Cat-plain.jpg in Resources */,
+				EB376BF91D0D387E0020631D /* dummy-600x900-WhiteTiger-plain.jpg in Resources */,
+				EB376C1C1D0D389C0020631D /* dummy-428x760-White-plain.jpg in Resources */,
+				EB376BFF1D0D387E0020631D /* dummy-1730x1068-Dog-plain.jpg in Resources */,
+				EB376C211D0D389C0020631D /* dummy-600x900-Circus-plain.jpg in Resources */,
+				EB376C241D0D389C0020631D /* dummy-1024x1820-Comb-plain.jpg in Resources */,
+				EB376C271D0D389C0020631D /* dummy-1730x1068-Menu-plain.jpg in Resources */,
+				EB376BF71D0D387E0020631D /* dummy-556x900-Gull-plain.jpg in Resources */,
+				EB376C161D0D389C0020631D /* dummy-40x40-Bottles-plain.jpg in Resources */,
+				EB376BF41D0D387E0020631D /* dummy-428x760-Cow-plain.jpg in Resources */,
+				EB376BF51D0D387E0020631D /* dummy-454x280-CanisLupus-plain.jpg in Resources */,
+				EB376C261D0D389C0020631D /* dummy-1360x2040-DesiccationCracks-plain.jpg in Resources */,
+				EB376BF01D0D387E0020631D /* dummy-135x240-MarrusOrthocanna-plain.jpg in Resources */,
+				EB376C221D0D389C0020631D /* dummy-864x1152-Utrecht-plain.jpg in Resources */,
+				EB376BF61D0D387E0020631D /* dummy-468x60-Monkey1-plain.jpg in Resources */,
+				EB376BFC1D0D387E0020631D /* dummy-1024x1820-Lama-plain.jpg in Resources */,
 				EB376BCE1D0D20570020631D /* Assets.xcassets in Resources */,
+				EB376C001D0D387E0020631D /* dummy-1752x1168-Jellyfish-plain.jpg in Resources */,
+				EB376C191D0D389C0020631D /* dummy-160x107-RedDots-plain.jpg in Resources */,
 				EB376BD11D0D20570020631D /* Main.storyboard in Resources */,
+				EB376BF31D0D387E0020631D /* dummy-375x500-Flamingo-plain.jpg in Resources */,
+				EB376BF11D0D387E0020631D /* dummy-160x107-Auger2-plain.jpg in Resources */,
+				EB376C1A1D0D389C0020631D /* dummy-160x240-FairyLights-plain.jpg in Resources */,
+				EB376C231D0D389C0020631D /* dummy-926x1500-Rope-plain.jpg in Resources */,
+				EB376BFE1D0D387E0020631D /* dummy-1360x2040-CetoniaAurata-plain.jpg in Resources */,
+				EB376BF81D0D387E0020631D /* dummy-600x800-Auger1-plain.jpg in Resources */,
+				EB376C171D0D389C0020631D /* dummy-60x60-Glass-plain.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
